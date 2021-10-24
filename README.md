@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @TeishaMurray, but most folks call me Murray.
-- 👀 I’m interested in project management for software development. 
-- 🌱 I’m currently learning JavaScript and CS concepts; Front-End and Back-End Frameworks and Databases; and React Native. 
+- 👋 Hi, I’m @TeishaMurray (she/her), but most folks call me Murray.
+- 👀 I’m a budding full stack developer with a passion for creating engaging UX and data-driven insights. 
+- 🌱 I have experience using Vanilla JS and React/Redux, as well as Java and Spring Boot. 
 - 💞️ I’m looking to collaborate on web and app development projects. 
 - 📫 How to reach me: LinkedIn.com/in/teishamurray.
 
